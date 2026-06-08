@@ -3,10 +3,10 @@
 Taumos is an advanced, highly interactive web-based graphing calculator built with Vue 3 and TypeScript. It leverages the mathematical rendering power of the Desmos API and synchronizes it seamlessly with a custom-built HTML5 Canvas grid system, offering users deep control over the graphing environment.
 
 ## Screenshots
-<img width="300" alt="image_2026-06-08_18-59-12" src="https://github.com/user-attachments/assets/6d806e3f-ee08-473c-8426-2d253b2b8ed0" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/fafa3d10-e4fd-484c-90db-693cdee2e31a" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/70d66346-d612-46ae-8bec-7961b6ed654a" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/96ab403c-eaf2-4174-b5d3-bdfea5792554" />
+<img width="450" alt="image_2026-06-08_18-59-12" src="https://github.com/user-attachments/assets/6d806e3f-ee08-473c-8426-2d253b2b8ed0" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/fafa3d10-e4fd-484c-90db-693cdee2e31a" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/70d66346-d612-46ae-8bec-7961b6ed654a" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/96ab403c-eaf2-4174-b5d3-bdfea5792554" />
 
 ## Features
 

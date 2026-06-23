@@ -1,4 +1,4 @@
-<h1><img src="image.png" alt="Taumos icon" width="32" height="32" align="center" /> Taumos</h1>
+<h1><img src="image.png" alt="Taumos icon" height="40" style="vertical-align: middle;" />&nbsp;Taumos</h1>
 
 Taumos is an advanced, highly interactive web-based graphing calculator built with Vue 3 and TypeScript. It leverages the mathematical rendering power of the Desmos API and synchronizes it seamlessly with a custom-built HTML5 Canvas grid system, offering users deep control over the graphing environment.
 

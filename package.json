@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "anthropic-fonts": "^1.1.0",
-    "mathlive": "^0.109.1",
+    "mathlive": "^0.110.0",
     "vue": "^3.5.32"
   },
   "devDependencies": {
@@ -18,7 +18,7 @@
     "@vitejs/plugin-vue": "^6.0.6",
     "@vue/tsconfig": "^0.9.1",
     "typescript": "~6.0.2",
-    "vite": "^8.0.9",
+    "vite": "^8.2.2",
     "vue-tsc": "^3.2.7"
   }
 }
